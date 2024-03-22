@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+}
+table, td, th{
+    border: 1px solid brown;
+border-color: black;
+}
+table{
+   background-color: rgb(214, 255, 189);
+    font-size: 24px;
+    margin: 0 auto;
+}
+h2{
+   text-align: center;
+}
+   
